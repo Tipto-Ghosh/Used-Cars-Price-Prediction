@@ -2,6 +2,12 @@
 
 ![Banner](static/Images/web_page.png)
 
+Provide necessary input using provided dropdown-option and also enter Kilometers Driven amount
+![providing_input](static/Images/input.png)
+
+After Providing all the info `Press` **Predict price** Button
+![predict_price](static/Images/prediction.png)
+
 Welcome to **Used Car Price Predictor**, an end-to-end Machine Learning project that predicts the resale value of used cars. This is my very first ML project, where I put into practice what I've recently learned about:
 
 * 🔹 Linear Regression
@@ -91,9 +97,8 @@ Open your browser and visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 💡 Web Page
 
-![Web App Screenshot](static/Images/background.png)
+![Web App Prediction Screenshot](static/Images/background.png)
 
 ---
 
