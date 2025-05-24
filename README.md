@@ -1,6 +1,6 @@
 # 🚗 Used Car Price Predictor
 
-![Banner](Images/web-page.png)
+![Banner](static/Images/web_page.png)
 
 Welcome to **Used Car Price Predictor**, an end-to-end Machine Learning project that predicts the resale value of used cars. This is my very first ML project, where I put into practice what I've recently learned about:
 
@@ -93,7 +93,7 @@ Open your browser and visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 💡 Web Page
 
-![Web App Screenshot](Images/background.png)
+![Web App Screenshot](static/Images/background.png)
 
 ---
 
